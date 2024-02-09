@@ -7,6 +7,10 @@ This project is a simple and easy-to-use python script that allows you to send e
 - Python 
 - A gmail account with less secure app access enabled
 
+<br>
+<img src="sender.png" width=70% height="auto"><br><br>
+
+
 #Author
 <b>Xiao Li Savio Feng</b>
 
